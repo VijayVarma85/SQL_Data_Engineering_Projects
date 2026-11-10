@@ -1,0 +1,2 @@
+SELECT DISTINCT job_title_short
+FROM job job_postings_fact;
