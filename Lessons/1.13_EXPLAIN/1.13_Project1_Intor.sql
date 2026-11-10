@@ -1,2 +1,2 @@
-SELECT DISTINCT job_title_short
+SELECT DISTINCT job_country
 FROM job job_postings_fact;
